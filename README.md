@@ -1,5 +1,5 @@
-# Mini message board
+# Mini message board (NodeJS)
 
 Mini message board project for The Odin Project
 
-Main focus is to learn nodeJS express
+Live Preview: https://agile-eyrie-73777.herokuapp.com/
